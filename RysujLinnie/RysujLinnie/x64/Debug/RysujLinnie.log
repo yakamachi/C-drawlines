@@ -1,0 +1,19 @@
+﻿  main.c
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(59): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(125): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(126): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(127): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(130): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(131): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(135): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(136): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(142): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(142): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(149): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(150): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(155): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(156): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(160): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(160): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+  RysujLinnie.vcxproj -> C:\Users\Lenovo\Desktop\RysujLinnie\x64\Debug\RysujLinnie.exe
+  RysujLinnie.vcxproj -> C:\Users\Lenovo\Desktop\RysujLinnie\x64\Debug\RysujLinnie.pdb (Partial PDB)

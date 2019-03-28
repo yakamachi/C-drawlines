@@ -1,0 +1,18 @@
+﻿  main.c
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(126): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(127): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(128): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(133): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(137): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(144): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(154): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(172): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(175): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(175): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(176): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(181): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(184): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(184): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\users\lenovo\desktop\rysujlinnie\rysujlinnie\main.c(185): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  RysujLinnie.vcxproj -> C:\Users\Lenovo\Desktop\RysujLinnie\Debug\RysujLinnie.exe
+  RysujLinnie.vcxproj -> C:\Users\Lenovo\Desktop\RysujLinnie\Debug\RysujLinnie.pdb (Partial PDB)
